@@ -17,5 +17,6 @@ echo "$DayOfTheWeek[$DayCount] <br />";
 $DayCount++;
 }while($DayCount <= 6);
 
+
 ?>
 
